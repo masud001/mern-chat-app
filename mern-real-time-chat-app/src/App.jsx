@@ -1,14 +1,13 @@
-
+import React from 'react';
+import Register from './Register';
 
 function App() {
 
 
   return (
-    <>
-
-      <h1 className='bg-red-500'>Vite + React</h1>
-
-    </>
+    <React.Fragment>
+      <Register />
+    </React.Fragment>
   )
 }
 

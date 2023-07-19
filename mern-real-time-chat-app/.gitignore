@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+../mern-chat-api/node_modules
 dist
 dist-ssr
 *.local
